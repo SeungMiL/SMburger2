@@ -16,22 +16,7 @@
 <img src="https://user-images.githubusercontent.com/89256060/160892374-03c96559-bfeb-4b36-8128-d654ff39b756.JPG" width="500" height="300">
 *  메뉴선택후 장바구니 추가
 <img src="https://user-images.githubusercontent.com/89256060/160892376-2cfe7cb4-db7e-4287-874b-2795cc69b512.JPG" width="500" height="300">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
-* <img src="">
+
 * https://smburger.herokuapp.com/admin 으로 접속시 관리자 페이지 접속 (id : admin pw: 123456)
 * 관리자 페이지 로그인 후 홈버튼 클릭시 새메뉴 추가 가능
 * 관리자 로그인 시 등록된 상품 삭제 가능
