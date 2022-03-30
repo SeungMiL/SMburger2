@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SM버거(포트폴리오 사이트)
 
-## Getting Started
+홈페이지 URL : https://smburger.herokuapp.com/
 
-First, run the development server:
+* 웹
+<img src="https://user-images.githubusercontent.com/89256060/160676100-58d4dbcf-567e-47fc-b4bd-1d0381f6f237.JPG">
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+* 모바일 <br>
+<img src="https://user-images.githubusercontent.com/89256060/160676975-4afeff0a-e69d-4369-bc12-94343b212b54.JPG">
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 2. 프로젝트 설명
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+* https://smburger.herokuapp.com/admin 으로 접속시 관리자 페이지 접속 (id : admin pw: 123456)
+* 관리자 페이지 로그인 후 홈버튼 클릭시 새메뉴 추가 가능
+* 관리자 로그인 시 등록된 상품 삭제 가능
+* 관리자 로그인 시 배송 단계 넘기기 가능
+* 장바구니 기능 적용
+* 결제 시 현장 결제 및 paypal 결제 기능 적용
+* 현재 배송단계 확인 기능 적용
+* 메뉴 페이지 사이즈 메뉴 추가시 가격추가 및 장바구니 담을시 장바구니 넣은 만큼 총액 시각화 적용
+* 모바일 반응형(480px) 적용
+* 배너 클릭 슬라이드 기능 적용
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## 3. 사용기술
+* Next.js
+* redux/toolkit
+* axios
+* mongoose
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
