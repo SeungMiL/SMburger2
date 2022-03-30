@@ -3,7 +3,7 @@
 홈페이지 URL : https://smburger.herokuapp.com/
 
 * 웹
-<img src="https://user-images.githubusercontent.com/89256060/160676100-58d4dbcf-567e-47fc-b4bd-1d0381f6f237.JPG">
+<img src="https://user-images.githubusercontent.com/89256060/160676100-58d4dbcf-567e-47fc-b4bd-1d0381f6f237.JPG" width="800" height="400">
 
 * 모바일 <br>
 <img src="https://user-images.githubusercontent.com/89256060/160870410-74fc5331-e60c-4f38-a6a3-16b88eeab3ec.JPG">
@@ -13,10 +13,10 @@
 
 ## 3. 프로젝트 설명
 * 메뉴선택페이지 
-<img src="https://user-images.githubusercontent.com/89256060/160892374-03c96559-bfeb-4b36-8128-d654ff39b756.JPG" width="800" height="300">
+<img src="https://user-images.githubusercontent.com/89256060/160892374-03c96559-bfeb-4b36-8128-d654ff39b756.JPG" width="800" height="400">
 
 * 메뉴선택후 장바구니 추가
-<img src="https://user-images.githubusercontent.com/89256060/160892376-2cfe7cb4-db7e-4287-874b-2795cc69b512.JPG" width="800" height="300">
+<img src="https://user-images.githubusercontent.com/89256060/160892376-2cfe7cb4-db7e-4287-874b-2795cc69b512.JPG" width="800" height="400">
 
 * https://smburger.herokuapp.com/admin 으로 접속시 관리자 페이지 접속 (id : admin pw: 123456)
 * 관리자 페이지 로그인 후 홈버튼 클릭시 새메뉴 추가 가능
