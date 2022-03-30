@@ -23,7 +23,9 @@ const Navbar = () => {
           </Link>
           <li className={styles.listItem}>상품</li>
           <li className={styles.listItem}>메뉴소개</li>
-          <Image src="/img/logo1.png" alt="" width="160px" height="69px" />
+          <Link href="/" passHref>
+          <Image className={styles.navLogo} src="/img/logo1.png" alt="" width="160px" height="69px" />
+          </Link>
           <li className={styles.listItem}>이벤트</li>
           <li className={styles.listItem}>블로그</li>
           <li className={styles.listItem}>기업제휴</li>

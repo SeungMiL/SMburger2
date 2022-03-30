@@ -24,6 +24,10 @@
   justify-content: flex-end;
 }
 
+.navLogo{
+  cursor: pointer;
+}
+
 .callButton {
   background-color: white;
   border-radius: 50%;
@@ -63,6 +67,7 @@
 
 .cart{
     position: relative;
+    cursor: pointer;
 }
 
 .counter{
