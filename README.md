@@ -12,7 +12,6 @@
 * 기획 및 개발 등 전체(단독 프로젝트)
 
 ## 3. 프로젝트 설명
-* <img src="https://user-images.githubusercontent.com/89256060/160892374-03c96559-bfeb-4b36-8128-d654ff39b756.JPG">
 * 메뉴선택페이지
 <img src="https://user-images.githubusercontent.com/89256060/160892374-03c96559-bfeb-4b36-8128-d654ff39b756.JPG" width="500" height="300">
 * 메뉴선택후 장바구니 추가
