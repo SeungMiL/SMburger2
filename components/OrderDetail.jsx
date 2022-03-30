@@ -1,5 +1,6 @@
 import { useState } from "react";
 import styles from "../styles/OrderDetail.module.css";
+import { useSelector } from "react-redux";
 
 const OrderDetail = ({ total, createOrder }) => {
   const [customer, setCustomer] = useState("");
