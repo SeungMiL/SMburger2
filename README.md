@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/89256060/160676100-58d4dbcf-567e-47fc-b4bd-1d0381f6f237.JPG">
 
 * 모바일 <br>
-<img src="https://user-images.githubusercontent.com/89256060/160676975-4afeff0a-e69d-4369-bc12-94343b212b54.JPG">
+<img src="https://user-images.githubusercontent.com/89256060/160870410-74fc5331-e60c-4f38-a6a3-16b88eeab3ec.JPG">
 
 
 ## 2. 프로젝트 설명
