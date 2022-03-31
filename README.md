@@ -1,6 +1,6 @@
 # 1. SM버거(포트폴리오 사이트)
 
-홈페이지 URL : https://sm-burger2.vercel.app/
+홈페이지 URL : https://sm-burger.vercel.app/
 
 * 웹
 <img src="https://user-images.githubusercontent.com/89256060/160676100-58d4dbcf-567e-47fc-b4bd-1d0381f6f237.JPG" width="800" height="400">
