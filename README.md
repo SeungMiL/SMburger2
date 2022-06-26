@@ -1,7 +1,6 @@
 # 1. SM버거
 ### next.js와 mongoDB와 node.js 연동 연습
 
-
 홈페이지 URL : https://sm-burger.vercel.app/
 서버 heroku에 올림
 
