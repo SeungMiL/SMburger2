@@ -1,6 +1,9 @@
-# 1. SM버거(포트폴리오 사이트)
+# 1. SM버거
+### next.js와 mongoDB와 node.js 연동 연습
+
 
 홈페이지 URL : https://sm-burger.vercel.app/
+서버 heroku에 올림
 
 * 웹
 <img src="https://user-images.githubusercontent.com/89256060/160676100-58d4dbcf-567e-47fc-b4bd-1d0381f6f237.JPG" width="800" height="400">
